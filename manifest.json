@@ -1,0 +1,16 @@
+{
+  "name": "Omni Work",
+  "short_name": "Omni Work",
+  "description": "A marketplace connecting people who need tasks done with people ready to do them — skilled and unskilled work, fair pay, built-in safety.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F0D15",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
